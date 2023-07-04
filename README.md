@@ -1,7 +1,4 @@
-<div>
 # Hi, I'm Fadhli!
-
-</div>
 
 # About Me
 
