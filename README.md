@@ -25,7 +25,10 @@
 
 # 🛠 My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadfadhli&repo=excommunicado&theme=dark)](https://github.com/mohammadfadhli/excommunicado)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadfadhli&repo=ord_counter&theme=dark)](https://github.com/mohammadfadhli/ord_counter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadfadhli&repo=ord-counter&theme=dark)](https://github.com/mohammadfadhli/ord_counter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadfadhli&repo=sustainabite&theme=dark)](https://github.com/mohammadfadhli/sustainabite)
 
 <div align="center">
    <img src="https://visitcount.itsvg.in/api?id=mohammadfadhli&label=Profile%20Views&color=0&icon=5&pretty=false" />
