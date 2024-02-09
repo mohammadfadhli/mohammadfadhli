@@ -21,7 +21,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadfadhli&repo=sustainabite&theme=dark)](https://github.com/mohammadfadhli/sustainabite)
 
-<div align="center">
-   <img src="https://visitcount.itsvg.in/api?id=mohammadfadhli&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</div>
-
