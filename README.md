@@ -4,11 +4,6 @@
 
 <!-- <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png"> -->
 
-
-- 🔭 I’m currently working on [excommunicado](https://github.com/mohammadfadhli/excommunicado)
-
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mohammadfadhli](https://github.com/mohammadfadhli)
 
 - 📫 How to reach me **mohammadfadhlinassir@gmail.com**
