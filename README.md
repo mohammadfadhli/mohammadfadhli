@@ -3,9 +3,7 @@
 <!-- <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/70943732/209951414-a2e5a1bb-73e6-473d-895d-9baa0f0a5117.png"> -->
 
 - [Portfolio](https://mohammadfadhli.vercel.app/)
-
 - [Email](mohammadfadhlinassir@gmail.com)
-
 - [LinkedIn](https://www.linkedin.com/in/mohd-fadhli-997607155/)
 
 ## 🖥 Tech Stack:
