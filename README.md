@@ -4,7 +4,7 @@
 
 - All of my projects are available at [https://github.com/mohammadfadhli](https://github.com/mohammadfadhli)
 
-- How to reach me **mohammadfadhlinassir@gmail.com**
+- How to reach me mohammadfadhlinassir@gmail.com
 
 - Let's connect [https://www.linkedin.com/in/mohd-fadhli-997607155/](https://www.linkedin.com/in/mohd-fadhli-997607155/)
 
